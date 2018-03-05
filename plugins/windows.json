@@ -1,0 +1,36 @@
+{
+  "prepare_queue": {
+    "installed": [],
+    "uninstalled": []
+  },
+  "config_munge": {
+    "files": {}
+  },
+  "installed_plugins": {
+    "cordova-plugin-android-permissions": {
+      "PACKAGE_NAME": "HelloCordova"
+    },
+    "cordova-plugin-camera": {
+      "PACKAGE_NAME": "HelloCordova"
+    },
+    "cordova-plugin-compat": {
+      "PACKAGE_NAME": "HelloCordova"
+    },
+    "cordova-plugin-device": {
+      "PACKAGE_NAME": "HelloCordova"
+    },
+    "cordova-plugin-webrtc": {
+      "PACKAGE_NAME": "HelloCordova"
+    },
+    "cordova-plugin-whitelist": {
+      "PACKAGE_NAME": "HelloCordova"
+    },
+    "cordova-plugin-barcodescanner": {
+      "PACKAGE_NAME": "HelloCordova"
+    },
+    "phonegap-plugin-barcodescanner": {
+      "PACKAGE_NAME": "HelloCordova"
+    }
+  },
+  "dependent_plugins": {}
+}

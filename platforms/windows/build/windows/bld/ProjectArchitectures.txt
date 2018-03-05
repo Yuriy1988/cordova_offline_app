@@ -1,0 +1,1 @@
+C:\Users\Oleksandr_Dziuban\Desktop\Projects\APC-FIA\cordova-barcode-scanner-prototype\platforms\windows\CordovaApp.Windows10.jsproj;x64
